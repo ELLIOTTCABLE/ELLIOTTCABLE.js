@@ -3,7 +3,7 @@ These are my coedz. There are many like them, but these are mine ...
 http://ell.io/twitter
 ###
 
-module.export =
+module.exports =
 ELLIOTTCABLE =
    
    _:_ = require 'lodash/dist/lodash.compat.min'
